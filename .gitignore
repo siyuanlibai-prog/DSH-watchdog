@@ -1,0 +1,14 @@
+# 日志
+*.log
+watchdog.log
+dsh-autostart.log
+setup-*.log
+drill-watchdog.log
+
+# 宠物素材（体积较大，由用户自行准备）
+assets/*.png
+assets/*.ico
+
+# 系统文件
+Thumbs.db
+Desktop.ini
